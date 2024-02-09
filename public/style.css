@@ -269,4 +269,14 @@ td, th {
     .lista-diferenciales, .imagen-diferenciales {
         width: 100%;
     }
+
+    .productos {
+        width: auto;
+    }
+
+    .productos li {
+        display: block;
+        width: auto;
+        margin-bottom: 1em;
+    }
 }
